@@ -1,2 +1,2 @@
-# devops-projects
-A project on Devops training at Darey.io
+# dareyio-pbl
+DAREY.IO Projects
